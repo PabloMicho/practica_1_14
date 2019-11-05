@@ -1,0 +1,37 @@
+html {
+    background-color: peachpuff;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(97, 37, 3);
+}
+
+main, span.marron, ul.marron {
+    color: brown;
+}
+
+p.menu {
+    float: left;
+}
+
+p.cafe {
+    text-align: center;
+}
+
+p.mail {
+    float: right;
+}
+
+br {
+    clear: both;
+}
+
+p.extras {
+    text-align: center;
+}
+
+ol.negro, ul.negro {
+    color: black;
+}
+
